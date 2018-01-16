@@ -1,1 +1,4 @@
-This is the first version of class
+This is the first version of class.txt
+what
+Add things to file,
+branching is cool
