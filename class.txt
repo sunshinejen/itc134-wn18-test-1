@@ -2,3 +2,5 @@ This is the first version of class.txt
 what
 Add things to file,
 branching is cool
+
+here i added a line from the mastere branch 
